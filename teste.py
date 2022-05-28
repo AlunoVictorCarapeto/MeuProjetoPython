@@ -4,4 +4,4 @@ print("Victor")
 
 valor = 10
 if valor <= 10:
-    print("Teste)
+    print("Teste")
